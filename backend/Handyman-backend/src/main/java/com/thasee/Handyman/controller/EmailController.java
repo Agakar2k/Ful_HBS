@@ -1,5 +1,4 @@
 package com.thasee.Handyman.controller;
-
 import com.thasee.Handyman.service.EmailService;
 import com.thasee.Handyman.model.EmailRequest;
 import org.springframework.beans.factory.annotation.Autowired;
